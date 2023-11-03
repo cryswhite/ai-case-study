@@ -40,7 +40,7 @@ And, we're already seeing how they are strategically leveraging their position i
 
 ---
 
-## **Tech Stack"
+## **Tech Stack**
 
 Workday's tech stack is comprehensive, and internal systems would be difficult to determine without internal connections. So, for the purpose of this analysis, I'm relying on a Medium article, "Sneak Peak into Workday's Technology Stack," written by one of Workday's engineers, Fergal Somers. Somers states one of the key components is The Workday Cloud Platform which "enables external developers to build with Workday by exposing our applications and technology via RESTful design-time and run-time APIs." He also writes about Worksheets, their collaboration technology which "enables users to slice and dice data within Workday and combine it with external sources in a high-fidelity, real-time spreadsheet UX."
 
